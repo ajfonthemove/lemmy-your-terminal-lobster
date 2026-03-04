@@ -1,0 +1,6 @@
+{
+  "id": "lemmy-feed",
+  "name": "Lemmy Feed",
+  "description": "Appends NDJSON token usage to ~/.openclaw/logs/lemmy-usage.jsonl",
+  "configSchema": {}
+}
